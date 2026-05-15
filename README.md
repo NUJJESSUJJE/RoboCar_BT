@@ -1,1 +1,1 @@
-Este proyecto consiste en crear un coche robot desde cero, montarlo y programarlo con Arduino, y controlarlo mediante Bluetooth desde una aplicación móvil hecha con App Inventor.
+Este proyecto consiste en crear un coche robot desde cero, montarlo y programarlo con Arduino, y controlarlo mediante Bluetooth desde una aplicación móvil hecha con App Inventor, tambien se ha creado una pagina web donde se explica en que consiste el proyecto y un enlace donde nos redirige al manual de instalacion y de programacion del coche.
